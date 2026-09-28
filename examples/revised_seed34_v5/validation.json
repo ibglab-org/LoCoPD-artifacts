@@ -1,0 +1,1122 @@
+[
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 14,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": true,
+        "who": "patient",
+        "quote": "[how you slept last night -> how quickly you move] There's just a lot to organise, and buttoning a shirt is a five-minute business at the moment, so getting things done is taking longer than usual. Also, I only got about four hours of sleep last night, so I'm a bit tired."
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I had only about 4.2 hours last night.",
+        "approx_hours": 4.2
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Making tea became a several-minute job and I struggled to get started.",
+        "severity_wording": "moderate",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 15:41",
+        "patient_span": "Around 15:41, while I was getting things done, I was still in one of my off spells; the latest tablet had not taken effect yet.",
+        "semantic_status": "off"
+      },
+      "dose_adherence_and_timing": {
+        "status": "missed",
+        "dose_indices": [
+          0,
+          1
+        ],
+        "evidence": "The morning dose was not taken."
+      },
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 14,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I had only about 5.6 hours last night.",
+        "approx_hours": 5.6
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "The small jobs took quite a while, and I had to work through them steadily.",
+        "severity_wording": "mild",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 09:43",
+        "patient_span": "Around 09:43, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": {
+        "status": "late",
+        "dose_indices": [
+          1,
+          2
+        ],
+        "evidence": "The midday dose was taken late."
+      },
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 14,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I had only about 4.5 hours last night.",
+        "approx_hours": 4.5
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Making tea became a several-minute job and I struggled to get started.",
+        "severity_wording": "moderate",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 09:09",
+        "patient_span": "Around 09:09, while I was getting things done, I was still in one of my off spells; the latest tablet had not taken effect yet.",
+        "semantic_status": "off"
+      },
+      "dose_adherence_and_timing": {
+        "status": "late",
+        "dose_indices": [
+          0,
+          1,
+          2
+        ],
+        "evidence": "The morning dose was taken late."
+      },
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 14,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I had only about 5.7 hours last night.",
+        "approx_hours": 5.7
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Getting dressed took noticeably longer than usual this morning.",
+        "severity_wording": "mild",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 11:53",
+        "patient_span": "Around 11:53, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": {
+        "status": "late",
+        "dose_indices": [
+          0,
+          1,
+          2
+        ],
+        "evidence": "The morning dose was taken late."
+      },
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 5,
+    "turns": 9,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      }
+    ],
+    "evidence_plan": {
+      "role": "context",
+      "sleep": null,
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "The small jobs took quite a while, and I had to work through them steadily.",
+        "severity_wording": "mild",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": null,
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation",
+        "sleep duration for this session"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 5,
+    "turns": 9,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      }
+    ],
+    "evidence_plan": {
+      "role": "context",
+      "sleep": null,
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Making tea took a little longer than my usual couple of minutes.",
+        "severity_wording": "slight",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": null,
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation",
+        "sleep duration for this session"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I had only about 4.7 hours last night.",
+        "approx_hours": 4.7
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Getting dressed took noticeably longer than usual this morning.",
+        "severity_wording": "mild",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 12:29",
+        "patient_span": "Around 12:29, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 6,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I slept about 8.5 hours, which is around my usual amount.",
+        "approx_hours": 8.5
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "I was a little held back with the morning jobs, though I got through them.",
+        "severity_wording": "slight",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 19:08",
+        "patient_span": "Around 19:08, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": true,
+        "who": "companion",
+        "quote": "[how you slept last night -> how quickly you move] I am sorry to hear you only got about 5.8 hours of sleep last night. That fuzzy tired feeling can definitely make the day feel a bit longer. Are you able to take it easy today and get some rest?"
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I had only about 5.8 hours last night.",
+        "approx_hours": 5.8
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Making tea took several minutes instead of my usual couple.",
+        "severity_wording": "mild",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 12:33",
+        "patient_span": "Around 12:33, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I slept about 12.0 hours, which is around my usual amount.",
+        "approx_hours": 12.0
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Buttoning my shirt took about a minute instead of happening straightaway.",
+        "severity_wording": "slight",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 11:05",
+        "patient_span": "Around 11:05, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 6,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": true,
+        "who": "person",
+        "quote": "[medication response -> balance or walking] I was a bit unsteady on my feet earlier when I was getting breakfast sorted, before my meds had kicked in around eight."
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I slept about 8.3 hours, which is around my usual amount.",
+        "approx_hours": 8.3
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "The small jobs took quite a while, and I had to work through them steadily.",
+        "severity_wording": "mild",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 08:02",
+        "patient_span": "Around 08:02, while I was getting things done, I was still in one of my off spells; the latest tablet had not taken effect yet.",
+        "semantic_status": "off"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 6,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": true,
+        "who": "companion",
+        "quote": "[how you slept last night -> how quickly you move] Working through a job steadily sounds like a good way to handle things when they aren't moving quickly. I'm sorry to hear you only got about five hours of sleep last night. How are you feeling now, having had less rest?"
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I had only about 5.0 hours last night.",
+        "approx_hours": 5.0
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Making tea took a little longer than my usual couple of minutes.",
+        "severity_wording": "slight",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 17:48",
+        "patient_span": "Around 17:48, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": true,
+        "who": "patient",
+        "quote": "[how you slept last night -> how quickly you move] Yeah, things take a bit longer. Making tea is a five-minute job for me today. I had only about 4.7 hours last night, so I'm a bit tired anyway."
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I had only about 4.7 hours last night.",
+        "approx_hours": 4.7
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Getting dressed took noticeably longer than usual this morning.",
+        "severity_wording": "mild",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 19:05",
+        "patient_span": "Around 19:05, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": true,
+        "who": "companion",
+        "quote": "[how you slept last night -> how quickly you move] That's good that you can ask one of the others later, and I'm glad you got your usual 6.4 hours of sleep. It makes sense that checking the payslip takes a bit longer right now. Are you finding other things are taking a bit longer to read today, too?"
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I slept about 6.4 hours, which is around my usual amount.",
+        "approx_hours": 6.4
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "I was a little held back with the morning jobs, though I got through them.",
+        "severity_wording": "slight",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 18:51",
+        "patient_span": "Around 18:51, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": true,
+        "who": "companion",
+        "quote": "[how you slept last night -> balance or walking] It makes sense that you'd be feeling tired and perhaps a bit unsteady after only getting about 4.8 hours of sleep last night."
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I had only about 4.8 hours last night.",
+        "approx_hours": 4.8
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Making tea took several minutes instead of my usual couple.",
+        "severity_wording": "mild",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 12:05",
+        "patient_span": "Around 12:05, while I was getting things done, my medication was in its usual working period.",
+        "semantic_status": "on"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  },
+  {
+    "required": {
+      "slowness": true,
+      "sleep": true,
+      "response": true,
+      "dose": true
+    },
+    "relationship_leakage": [],
+    "patient_turns": 7,
+    "turns": 13,
+    "passed_screen": true,
+    "semantic_leak_checks": [
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "session": 1,
+        "linked": false,
+        "who": "",
+        "quote": ""
+      },
+      {
+        "kind": "broad",
+        "session": 1,
+        "linked": true,
+        "who": "companion",
+        "quote": "[medication response -> how quickly you move] That sounds like a slow start, especially with making tea taking five minutes and being in an off spell around 08:14. It can be frustrating when the tablets haven't quite kicked in yet. How are you feeling now that the morning has moved on a bit?"
+      }
+    ],
+    "evidence_plan": {
+      "role": "anchor",
+      "sleep": {
+        "time_window": "the night before the dated check-in",
+        "patient_span": "I slept about 7.7 hours, which is around my usual amount.",
+        "approx_hours": 7.7
+      },
+      "slowness": {
+        "task": "making tea and dressing",
+        "patient_span": "Getting dressed took noticeably longer than usual this morning.",
+        "severity_wording": "mild",
+        "baseline": "patient compares with usual completion time"
+      },
+      "medication_response": {
+        "time_window": "within the observation window around 08:14",
+        "patient_span": "Around 08:14, while I was getting things done, I was still in one of my off spells; the latest tablet had not taken effect yet.",
+        "semantic_status": "off"
+      },
+      "dose_adherence_and_timing": null,
+      "background_clinical_facts": [
+        "mention balance, tremor, stiffness, or daily activity separately",
+        "do not state the longitudinal relationship"
+      ],
+      "relationship": "deliberately unobserved",
+      "deliberately_unobserved": [
+        "the sleep-slowness relationship",
+        "the answer key",
+        "causal explanation"
+      ]
+    }
+  }
+]

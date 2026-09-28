@@ -1,0 +1,1123 @@
+{
+  "provenance": {
+    "label": "adapted_from_existing_sampled_trajectory",
+    "seed": 34,
+    "replay": "couple=False",
+    "selection_rule": "16 consecutive dates with within-response short/usual severity contrast",
+    "usual_sleep_cut": "short iff sleep_hours < usual_sleep_hours - 1.0"
+  },
+  "coverage": {
+    "short/off": 2,
+    "short/on": 7,
+    "usual/on": 5,
+    "usual/off": 2
+  },
+  "sessions": [
+    {
+      "session_id": 1,
+      "date": "2026-10-26",
+      "observation_time": "15:41",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-10-26"
+      },
+      "simulator_truth": {
+        "sleep_hours": 4.18,
+        "sleep_class": "short",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "off",
+        "bradykinesia_category": "moderate",
+        "bradykinesia_raw": 2.8871255988990887,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "16:51"
+        ],
+        "dose_jitter_minutes": [
+          null,
+          null,
+          -69
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I had only about 4.2 hours last night.",
+          "approx_hours": 4.2
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Making tea became a several-minute job and I struggled to get started.",
+          "severity_wording": "moderate",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 15:41",
+          "patient_span": "Around 15:41, while I was getting things done, I was still in one of my off spells; the latest tablet had not taken effect yet.",
+          "semantic_status": "off"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 2,
+      "date": "2026-10-27",
+      "observation_time": "09:43",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-10-27"
+      },
+      "simulator_truth": {
+        "sleep_hours": 5.57,
+        "sleep_class": "short",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "mild",
+        "bradykinesia_raw": 1.639813002417736,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "07:56",
+          "10:11",
+          "16:30"
+        ],
+        "dose_jitter_minutes": [
+          -4,
+          -169,
+          -90
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I had only about 5.6 hours last night.",
+          "approx_hours": 5.6
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "The small jobs took quite a while, and I had to work through them steadily.",
+          "severity_wording": "mild",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 09:43",
+          "patient_span": "Around 09:43, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 3,
+      "date": "2026-10-28",
+      "observation_time": "09:09",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-10-28"
+      },
+      "simulator_truth": {
+        "sleep_hours": 4.52,
+        "sleep_class": "short",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "off",
+        "bradykinesia_category": "moderate",
+        "bradykinesia_raw": 2.793701467037047,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "09:01",
+          "10:30",
+          "16:17"
+        ],
+        "dose_jitter_minutes": [
+          61,
+          -150,
+          -103
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I had only about 4.5 hours last night.",
+          "approx_hours": 4.5
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Making tea became a several-minute job and I struggled to get started.",
+          "severity_wording": "moderate",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 09:09",
+          "patient_span": "Around 09:09, while I was getting things done, I was still in one of my off spells; the latest tablet had not taken effect yet.",
+          "semantic_status": "off"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 4,
+      "date": "2026-10-29",
+      "observation_time": "11:53",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-10-29"
+      },
+      "simulator_truth": {
+        "sleep_hours": 5.67,
+        "sleep_class": "short",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "mild",
+        "bradykinesia_raw": 1.8964942511183795,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "09:17",
+          "11:02",
+          "16:04"
+        ],
+        "dose_jitter_minutes": [
+          77,
+          -118,
+          -116
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I had only about 5.7 hours last night.",
+          "approx_hours": 5.7
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Getting dressed took noticeably longer than usual this morning.",
+          "severity_wording": "mild",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 11:53",
+          "patient_span": "Around 11:53, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 5,
+      "date": "2026-10-30",
+      "observation_time": "21:14",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-10-30"
+      },
+      "simulator_truth": {
+        "sleep_hours": 7.76,
+        "sleep_class": "usual",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "mild",
+        "bradykinesia_raw": 1.514794040650955,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "08:39",
+          "11:06",
+          "16:36"
+        ],
+        "dose_jitter_minutes": [
+          39,
+          -114,
+          -84
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "context",
+        "sleep": null,
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "The small jobs took quite a while, and I had to work through them steadily.",
+          "severity_wording": "mild",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": null,
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation",
+          "sleep duration for this session"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate.",
+        "Changed this session to slowness-only context; sleep is intentionally unobserved, so absence of sleep wording is not treated as usual sleep."
+      ]
+    },
+    {
+      "session_id": 6,
+      "date": "2026-10-31",
+      "observation_time": "14:04",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-10-31"
+      },
+      "simulator_truth": {
+        "sleep_hours": 9.27,
+        "sleep_class": "usual",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "slight",
+        "bradykinesia_raw": 1.2360690756544561,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "08:01",
+          "10:46",
+          "16:14"
+        ],
+        "dose_jitter_minutes": [
+          1,
+          -134,
+          -106
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "context",
+        "sleep": null,
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Making tea took a little longer than my usual couple of minutes.",
+          "severity_wording": "slight",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": null,
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation",
+          "sleep duration for this session"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate.",
+        "Changed this session to slowness-only context; sleep is intentionally unobserved, so absence of sleep wording is not treated as usual sleep."
+      ]
+    },
+    {
+      "session_id": 7,
+      "date": "2026-11-01",
+      "observation_time": "12:29",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-01"
+      },
+      "simulator_truth": {
+        "sleep_hours": 4.7,
+        "sleep_class": "short",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "mild",
+        "bradykinesia_raw": 1.5751277194430648,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "08:29",
+          "10:24",
+          "17:08"
+        ],
+        "dose_jitter_minutes": [
+          29,
+          -156,
+          -52
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I had only about 4.7 hours last night.",
+          "approx_hours": 4.7
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Getting dressed took noticeably longer than usual this morning.",
+          "severity_wording": "mild",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 12:29",
+          "patient_span": "Around 12:29, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 8,
+      "date": "2026-11-02",
+      "observation_time": "19:08",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-02"
+      },
+      "simulator_truth": {
+        "sleep_hours": 8.52,
+        "sleep_class": "usual",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "slight",
+        "bradykinesia_raw": 1.167919234978419,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "08:19",
+          "10:28",
+          "16:39"
+        ],
+        "dose_jitter_minutes": [
+          19,
+          -152,
+          -81
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I slept about 8.5 hours, which is around my usual amount.",
+          "approx_hours": 8.5
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "I was a little held back with the morning jobs, though I got through them.",
+          "severity_wording": "slight",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 19:08",
+          "patient_span": "Around 19:08, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 9,
+      "date": "2026-11-03",
+      "observation_time": "12:33",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-03"
+      },
+      "simulator_truth": {
+        "sleep_hours": 5.8,
+        "sleep_class": "short",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "mild",
+        "bradykinesia_raw": 1.5296053453355243,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "09:22",
+          "10:31",
+          "16:13"
+        ],
+        "dose_jitter_minutes": [
+          82,
+          -149,
+          -107
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I had only about 5.8 hours last night.",
+          "approx_hours": 5.8
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Making tea took several minutes instead of my usual couple.",
+          "severity_wording": "mild",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 12:33",
+          "patient_span": "Around 12:33, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 10,
+      "date": "2026-11-04",
+      "observation_time": "11:05",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-04"
+      },
+      "simulator_truth": {
+        "sleep_hours": 12.0,
+        "sleep_class": "usual",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "slight",
+        "bradykinesia_raw": 1.2964617930978193,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "08:14",
+          "11:19",
+          "16:08"
+        ],
+        "dose_jitter_minutes": [
+          14,
+          -101,
+          -112
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I slept about 12.0 hours, which is around my usual amount.",
+          "approx_hours": 12.0
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Buttoning my shirt took about a minute instead of happening straightaway.",
+          "severity_wording": "slight",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 11:05",
+          "patient_span": "Around 11:05, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 11,
+      "date": "2026-11-05",
+      "observation_time": "08:02",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-05"
+      },
+      "simulator_truth": {
+        "sleep_hours": 8.27,
+        "sleep_class": "usual",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "off",
+        "bradykinesia_category": "mild",
+        "bradykinesia_raw": 2.38667971824259,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "08:07",
+          "10:09",
+          "16:01"
+        ],
+        "dose_jitter_minutes": [
+          7,
+          -171,
+          -119
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I slept about 8.3 hours, which is around my usual amount.",
+          "approx_hours": 8.3
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "The small jobs took quite a while, and I had to work through them steadily.",
+          "severity_wording": "mild",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 08:02",
+          "patient_span": "Around 08:02, while I was getting things done, I was still in one of my off spells; the latest tablet had not taken effect yet.",
+          "semantic_status": "off"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 12,
+      "date": "2026-11-06",
+      "observation_time": "17:48",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-06"
+      },
+      "simulator_truth": {
+        "sleep_hours": 4.95,
+        "sleep_class": "short",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "slight",
+        "bradykinesia_raw": 1.415636306460456,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "07:58",
+          "12:26",
+          "15:40"
+        ],
+        "dose_jitter_minutes": [
+          -2,
+          -34,
+          -140
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I had only about 5.0 hours last night.",
+          "approx_hours": 5.0
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Making tea took a little longer than my usual couple of minutes.",
+          "severity_wording": "slight",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 17:48",
+          "patient_span": "Around 17:48, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 13,
+      "date": "2026-11-07",
+      "observation_time": "19:05",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-07"
+      },
+      "simulator_truth": {
+        "sleep_hours": 4.68,
+        "sleep_class": "short",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "mild",
+        "bradykinesia_raw": 1.920822837191948,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "09:00",
+          "10:37",
+          "16:57"
+        ],
+        "dose_jitter_minutes": [
+          60,
+          -143,
+          -63
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I had only about 4.7 hours last night.",
+          "approx_hours": 4.7
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Getting dressed took noticeably longer than usual this morning.",
+          "severity_wording": "mild",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 19:05",
+          "patient_span": "Around 19:05, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 14,
+      "date": "2026-11-08",
+      "observation_time": "18:51",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-08"
+      },
+      "simulator_truth": {
+        "sleep_hours": 6.43,
+        "sleep_class": "usual",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "slight",
+        "bradykinesia_raw": 1.2631232412615625,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "09:28",
+          "10:27",
+          "16:24"
+        ],
+        "dose_jitter_minutes": [
+          88,
+          -153,
+          -96
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I slept about 6.4 hours, which is around my usual amount.",
+          "approx_hours": 6.4
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "I was a little held back with the morning jobs, though I got through them.",
+          "severity_wording": "slight",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 18:51",
+          "patient_span": "Around 18:51, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 15,
+      "date": "2026-11-09",
+      "observation_time": "12:05",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-09"
+      },
+      "simulator_truth": {
+        "sleep_hours": 4.82,
+        "sleep_class": "short",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "on",
+        "bradykinesia_category": "mild",
+        "bradykinesia_raw": 1.580984848069153,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "08:30",
+          "10:55",
+          "16:47"
+        ],
+        "dose_jitter_minutes": [
+          30,
+          -125,
+          -73
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I had only about 4.8 hours last night.",
+          "approx_hours": 4.8
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Making tea took several minutes instead of my usual couple.",
+          "severity_wording": "mild",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 12:05",
+          "patient_span": "Around 12:05, while I was getting things done, my medication was in its usual working period.",
+          "semantic_status": "on"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    },
+    {
+      "session_id": 16,
+      "date": "2026-11-10",
+      "observation_time": "08:14",
+      "source": {
+        "seed": 34,
+        "record_days": 240,
+        "replay": "upstream-compatible uncoupled record.build(couple=False)",
+        "source_date": "2026-11-10"
+      },
+      "simulator_truth": {
+        "sleep_hours": 7.69,
+        "sleep_class": "usual",
+        "usual_sleep_hours": 7.1,
+        "medication_response": "off",
+        "bradykinesia_category": "mild",
+        "bradykinesia_raw": 2.387075474744233,
+        "dose_schedule": [
+          "08:00",
+          "13:00",
+          "18:00"
+        ],
+        "dose_times_taken": [
+          "08:33",
+          "10:32",
+          "15:37"
+        ],
+        "dose_jitter_minutes": [
+          33,
+          -148,
+          -143
+        ],
+        "unique_events": []
+      },
+      "transcript_evidence_plan": {
+        "role": "anchor",
+        "sleep": {
+          "time_window": "the night before the dated check-in",
+          "patient_span": "I slept about 7.7 hours, which is around my usual amount.",
+          "approx_hours": 7.7
+        },
+        "slowness": {
+          "task": "making tea and dressing",
+          "patient_span": "Getting dressed took noticeably longer than usual this morning.",
+          "severity_wording": "mild",
+          "baseline": "patient compares with usual completion time"
+        },
+        "medication_response": {
+          "time_window": "within the observation window around 08:14",
+          "patient_span": "Around 08:14, while I was getting things done, I was still in one of my off spells; the latest tablet had not taken effect yet.",
+          "semantic_status": "off"
+        },
+        "dose_adherence_and_timing": null,
+        "background_clinical_facts": [
+          "mention balance, tremor, stiffness, or daily activity separately",
+          "do not state the longitudinal relationship"
+        ],
+        "relationship": "deliberately unobserved",
+        "deliberately_unobserved": [
+          "the sleep-slowness relationship",
+          "the answer key",
+          "causal explanation"
+        ]
+      },
+      "modifications": [
+        "Selected an existing sampled date; simulator values unchanged.",
+        "Added a comparable everyday task/baseline wording plan.",
+        "Kept sleep, response window, dose timing, and symptom wording separate."
+      ]
+    }
+  ]
+}

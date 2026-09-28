@@ -1,0 +1,850 @@
+[
+  [
+    {
+      "speaker": "patient",
+      "text": "Hi! I was wondering if you could help me think something through? I'm trying to plan my sister's baby shower, but I'm getting a bit overwhelmed with it all. I know we can figure it out, though."
+    },
+    {
+      "speaker": "companion",
+      "text": "Hi there! I'd love to help you think through the baby shower. What part of the planning feels the most overwhelming right now?"
+    },
+    {
+      "speaker": "patient",
+      "text": "There's just a lot to organise, and buttoning a shirt is a five-minute business at the moment, so getting things done is taking longer than usual. Also, I only got about four hours of sleep last night, so I'm a bit tired."
+    },
+    {
+      "speaker": "companion",
+      "text": "I hear you. Planning a shower is a lot even when you're well-rested, and it sounds like things are moving a bit slower for you right now. Do you want to tackle something small first, or would you rather bounce around some bigger ideas?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Maybe we could start with something small, like the invitations? I missed my morning tablet today, so things are a bit chaotic."
+    },
+    {
+      "speaker": "companion",
+      "text": "Invitations are a great place to start. Have you decided if you'd like to send physical invitations, or perhaps something digital? It sounds like you have a lot on your plate right now."
+    },
+    {
+      "speaker": "patient",
+      "text": "I was thinking physical invitations might be nice. My family are quite traditional, and I know my aunties would appreciate it. By the way, I was trying to sort out some of the decorations this afternoon, but I was still in an off spell around a quarter to four, so it didn't go very well."
+    },
+    {
+      "speaker": "companion",
+      "text": "Physical invitations do have a lovely, special feel to them, and I'm sure your aunties will appreciate the thought. Since you were having an off spell this afternoon, maybe we can just brainstorm a few ideas for the invitations right now, without needing to decide anything final. What kind of style were you thinking of?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I was thinking something classic, maybe in a nice soft yellow or green. I'm going to look online later."
+    },
+    {
+      "speaker": "companion",
+      "text": "Soft yellow or green sounds beautiful and very classic. Let me know what you find when you look online. Have you thought about when you'd like to send them out?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Maybe in a few weeks? That gives us plenty of time."
+    },
+    {
+      "speaker": "companion",
+      "text": "A few weeks sounds like a good timeline. It gives you some space to figure out the details without rushing. Do you want to think about the guest list next, or maybe take a break for now?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Actually, there is one more thing that's been bothering me. My hips and hands have been feeling quite tight lately, and it's making it a bit tricky to get things done around the house. It'll be fine, though, I just need to take my time."
+    },
+    {
+      "speaker": "companion",
+      "text": "That sounds frustrating, feeling tight in your hips and hands. It makes sense that taking your time is the best approach right now. Have you found anything that helps ease the tightness?"
+    }
+  ],
+  [
+    {
+      "speaker": "companion",
+      "text": "Hi there! How are you doing today? Did you end up looking online for those invitations?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi! Yes, I found some lovely ones with little green leaves on them. The party isn't for a while, so I've got time to sort them out."
+    },
+    {
+      "speaker": "companion",
+      "text": "That sounds lovely, with the little green leaves. I'm glad you have plenty of time to get them sorted. How are your hips and hands feeling today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "A bit better, just a bit of tightness across my shoulders today. It takes me two or three minutes just to button a shirt. I'll get there, though!"
+    },
+    {
+      "speaker": "companion",
+      "text": "I'm glad to hear your hips and hands are a bit better, but the tightness across your shoulders sounds frustrating, especially when getting dressed. Are you finding you're able to take your time with it?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I am, it's just how it is right now. It takes a couple of seconds before the first step comes when I get up, too. I managed my walk this morning though, which was good!"
+    },
+    {
+      "speaker": "companion",
+      "text": "It's great that you managed your walk this morning! How did it feel once you got going?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Fine once I got going! It was about half past nine, and my medication was working properly then, so I was alright to get some things done. I had only about 5.6 hours sleep last night, so I was a bit tired, but it was a nice morning for it."
+    },
+    {
+      "speaker": "companion",
+      "text": "I'm glad the walk felt fine once you got going, and that you were able to get some things done. A nice morning for a walk is always lovely. How are you feeling now, having had less sleep than you'd like?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Not too bad, all things considered. I ended up taking my midday tablet late, but it hasn't been a terrible day. Hopefully, I'll sleep better tonight!"
+    },
+    {
+      "speaker": "companion",
+      "text": "I'm glad it hasn't been a terrible day, even with the late tablet. Hopefully you get a better night's rest tonight. Are you planning anything else for this evening?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just a bit of telly, I think. Nice and easy!"
+    },
+    {
+      "speaker": "companion",
+      "text": "Nice and easy sounds perfect. Enjoy your evening and your telly, and I hope you get a good rest tonight. Talk to you soon!"
+    },
+    {
+      "speaker": "patient",
+      "text": "I will, hopefully! Oh, there is one thing I meant to say, getting started with things is quite tough today. I'm needing a little bit before that first step comes."
+    }
+  ],
+  [
+    {
+      "speaker": "companion",
+      "text": "Hi there! How are you doing today? Did you manage a better night's sleep than the other night?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi! Getting dressed takes me the best part of half an hour today. Taking longer to get going. I had only about 4.5 hours last night."
+    },
+    {
+      "speaker": "companion",
+      "text": "It sounds like a frustrating start to the day, especially taking so long to get dressed. I'm sorry to hear you only got about 4.5 hours of sleep, too. How are you feeling now?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I'll be alright, just taking my time. The morning dose was taken late today, got caught up. Going to try and look at some baby shower invitations later."
+    },
+    {
+      "speaker": "companion",
+      "text": "Taking your time sounds like a good approach. How are those little green leaf invitations looking to you today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "They are lovely! I'll get them ordered soon. Around 09:09, while I was getting things done, I was still in one of my off spells; the latest tablet had not taken effect yet."
+    },
+    {
+      "speaker": "companion",
+      "text": "I'm glad you still like the green leaf invitations. It sounds frustrating to have been in an off spell while you were trying to get things done this morning. Have you found you've had a chance to rest since then?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I'm just taking it easy now. I'm rooted a good while before the first step comes today. Getting lots of help with the baby shower planning from my sister, which is nice."
+    },
+    {
+      "speaker": "companion",
+      "text": "It's great that your sister is helping you with the baby shower planning! It sounds like a big help. That must be quite frustrating, needing a good while before you can take that first step. Are you finding that this is happening throughout the day, or just at certain times?"
+    },
+    {
+      "speaker": "patient",
+      "text": "It's a bit of a mixed bag today. My head and shoulders roll about of their own accord sometimes, too. But the baby shower planning is a nice distraction."
+    },
+    {
+      "speaker": "companion",
+      "text": "I'm glad the baby shower planning is a good distraction. That rolling in your head and shoulders sounds like it could be uncomfortable or distracting. Has it been getting in the way of what you want to do today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Not too much, just something I deal with. I'm just focusing on the good things, like the baby shower. Everything will come together."
+    },
+    {
+      "speaker": "companion",
+      "text": "Focusing on the good things, like the baby shower, sounds like a lovely way to look at it. It's a wonderful thing to look forward to. Are there any other details for the shower you're excited to plan?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just finalising the cake, thinking maybe a simple sponge. I should mention, I'm tight all over and it doesn't let up. But the sponge cake will be lovely."
+    }
+  ],
+  [
+    {
+      "speaker": "companion",
+      "text": "Hi there! How are you doing today? Did you decide on that simple sponge cake for the baby shower?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi! Yes, I think so, going to get my cousin to make it. Making tea is a five-minute job for me today, though, never mind baking! I think I only managed just under six hours sleep last night."
+    },
+    {
+      "speaker": "companion",
+      "text": "That's wonderful that your cousin is going to make the cake! It sounds like a great way to share the load. Getting just under six hours of sleep sounds a bit rough. How are you feeling after that?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I'm alright, just crack on don't you! I had my morning tablet a bit late today actually. I'm just looking at the decorations for the shower now."
+    },
+    {
+      "speaker": "companion",
+      "text": "Cracking on is sometimes all you can do, but take it easy today if you can. What kind of decorations are you looking at for the shower?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just simple stuff, banners and maybe some balloons. There was one point today around lunch when the tablets were working properly, which was nice. I'm hoping to get most of the decorations sorted before my sister's birthday next month."
+    },
+    {
+      "speaker": "companion",
+      "text": "Banners and balloons sound lovely and festive. It's nice that there was a point around lunch when things were working properly. Have you decided on a colour scheme for the balloons yet?"
+    },
+    {
+      "speaker": "patient",
+      "text": "We're going with pastel yellow and green, just to keep it neutral. I find that getting the first step out takes a bit of concentrating today, but it's nothing major. Going to try and get out for a quick walk in a bit."
+    },
+    {
+      "speaker": "companion",
+      "text": "Pastel yellow and green will look so nice, especially matching the invitations! A quick walk sounds like a good idea. Are you planning to head anywhere in particular?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just a walk around the block I think. Getting dressed takes me twenty minutes or so today, so taking my time with it. I'll get there in the end!"
+    },
+    {
+      "speaker": "companion",
+      "text": "A walk around the block sounds like a perfect plan. It sounds frustrating that getting dressed is taking around twenty minutes today. Are you finding it's just a bit slower, or is there a particular reason it's taking longer?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just a bit slower today I think. I'm going to get off now and get out for that walk."
+    },
+    {
+      "speaker": "companion",
+      "text": "Enjoy your walk around the block! It sounds like a lovely way to get some fresh air. Talk to you next time."
+    },
+    {
+      "speaker": "patient",
+      "text": "My arms feel heavy and set today actually, so I'm hoping the walk will help."
+    }
+  ],
+  [
+    {
+      "speaker": "patient",
+      "text": "Hi! Just wanted to let you know the baby shower invitations have arrived, and they look beautiful! It's nice to have something sorted. I'm a bit slow this morning, takes me a while to get going, but I'll get there."
+    },
+    {
+      "speaker": "companion",
+      "text": "Hi! That's wonderful news about the invitations, I'm so glad they look beautiful. It sounds like you're taking your time getting going this morning. Are you finding it's a bit slower than usual, or just par for the course right now?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just the way it is at the minute, a beat before my foot goes and then I'm fine. I'm going to get the girls round to help me address them all this afternoon. I'm just putting the kettle on now - making tea is a five-minute job for me these days!"
+    },
+    {
+      "speaker": "companion",
+      "text": "That sounds like a lovely plan for the afternoon, having the girls round to help address the invitations. I hope you enjoy your tea once it's made! How is the tightness all over feeling today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Actually just a touch of stiffness in one arm today, so I'm well pleased with that! I'm hoping to get all the invitations in the post by the weekend so that's another job ticked off."
+    },
+    {
+      "speaker": "companion",
+      "text": "That's great news that it's just a touch of stiffness in one arm today! It sounds like a great plan to have the invitations in the post by the weekend. Are there any other jobs for the baby shower you're hoping to tick off soon?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I need to sort the balloons next, I'm thinking pastel colours. It's taking me longer to get things done, making tea is a five-minute job for me at the moment, but I'm getting there. I'm going to head off now and get these invitations sorted while the girls are here!"
+    },
+    {
+      "speaker": "companion",
+      "text": "Pastel balloons will look beautiful, especially since they'll match the invitations! Have a wonderful afternoon with the girls getting those sorted. Take your time, and enjoy the company! Let me know how it goes next time we chat."
+    },
+    {
+      "speaker": "patient",
+      "text": "Will do, thanks! I'll catch up with you soon."
+    }
+  ],
+  [
+    {
+      "speaker": "patient",
+      "text": "Hi! The girls came round yesterday afternoon to do the invitations. We got them all addressed and stamped! Took a bit longer than I thought, I just don't move as fast as I used to, but we got there."
+    },
+    {
+      "speaker": "companion",
+      "text": "Hi there! It's so lovely that the girls were able to come round and help get all those invitations addressed and stamped. It sounds like you had a nice afternoon together, even if it took a bit longer than expected. Did you manage to get them all into the post yet?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh yes, we got them in the post first thing this morning. My sister was thrilled! It was a bit of an effort getting ready to go out though, getting dressed takes me ages these days. Have you ever helped plan a baby shower before?"
+    },
+    {
+      "speaker": "companion",
+      "text": "That's wonderful that your sister was so thrilled, and that you got them all posted this morning! It must be a relief to have that big job finished. I'm sorry to hear getting dressed is taking ages at the moment - does that make it harder to get out and about?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, it just means I need to plan ahead a bit more. Like today, I made sure I was ready before I needed to leave. My arms are a bit stiff, but it's nothing too bad. The invitations have a lovely little green leaf pattern on them."
+    },
+    {
+      "speaker": "companion",
+      "text": "Planning ahead sounds like a very sensible way to manage when things are taking a bit longer. The green leaf pattern sounds so fresh and pretty! Have you got your eye on any particular decorations to match the invitations yet?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, we are going to go with pastel yellow and green balloons, keep it quite simple. It will look lovely when it's all done! My arms are feeling a bit tight today, but hopefully it will ease off later. It's just one of those things, isn't it?"
+    },
+    {
+      "speaker": "companion",
+      "text": "The pastel yellow and green balloons will tie in perfectly with the green leaves on the invitations. It sounds frustrating that your arms are feeling tight today. I hope that eases off for you soon, as you said. Are you planning anything else for today, or just taking it easy?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just taking it easy for the rest of the day, I think. I might try and do a bit of baking later if my arms loosen up. The rolling about in my head and shoulders can be a bit much sometimes, but I just have to get on with it, don't I?"
+    }
+  ],
+  [
+    {
+      "speaker": "patient",
+      "text": "Morning! I need a hand with these baby shower games if you have a minute. They're doing my head in!"
+    },
+    {
+      "speaker": "companion",
+      "text": "Good morning! I'd love to help with the baby shower games. What kind of games are you looking for, and what's making them tricky to sort out?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I found a 'guess the baby food' game, but typing out the labels for the jars is taking ages. Takes me a while to get the buttons on the keyboard sorted, I've got a bit of a tremble in one finger. Getting dressed takes me twenty minutes or so these days!"
+    },
+    {
+      "speaker": "companion",
+      "text": "That sounds frustrating, that typing the labels is taking so long because of the tremble in your finger. Is there anyone around who might be able to help you write them out, or maybe you could buy some ready-made labels?"
+    },
+    {
+      "speaker": "patient",
+      "text": "My sister might be able to pop round later and help, I'll ask her. Around lunchtime, when I was having a go at the labels, the tablets were working alright, which is something. It's just getting the games sorted that's the main thing."
+    },
+    {
+      "speaker": "companion",
+      "text": "That's a good idea to ask your sister for help with the labels later. I'm glad the tablets were working alright for you around lunchtime. What other games were you thinking of having?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I was thinking maybe 'pin the dummy on the baby' or something easy like that. I didn't sleep well last night, got near enough five hours I think, so my brain's a bit fuzzy! It'll all be fine on the day though, I'm sure."
+    },
+    {
+      "speaker": "companion",
+      "text": "'Pin the dummy on the baby' is a classic, and always a laugh! I'm sorry to hear you only got about five hours of sleep last night, that fuzzy feeling is tough to deal with. Do you think you might be able to rest a bit before your sister pops round?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I might just have a sit-down for a bit, yeah. I just have to wait a moment before my foot lifts when I start walking, so I'll just take it easy. Do you think a game where you guess the baby's weight and arrival date would be good too?"
+    },
+    {
+      "speaker": "companion",
+      "text": "Having a sit-down sounds like a great idea. A game where everyone guesses the baby's weight and arrival date is always a lovely idea, and it's nice for the parents to look back on! It sounds like having to wait a moment before your foot lifts when you start walking can be frustrating. Are you finding that's happening quite a lot today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, most times I try and get moving, really. It's just something I have to put up with. We've got a chart for the guessing game, so that should be easy enough to set up!"
+    },
+    {
+      "speaker": "companion",
+      "text": "That sounds like a good plan to have a chart ready for the guessing game! It sounds frustrating that having to wait a moment before your foot lifts is happening most times you try to get moving today. Have you found anything that makes getting moving a bit easier?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Not really, I just have to wait for it. I'll get the games sorted, I'm just taking my time with it. Thanks for the help!"
+    }
+  ],
+  [
+    {
+      "speaker": "companion",
+      "text": "Hi there! How are you doing today? Did your sister end up popping round to help with the baby food labels yesterday?"
+    },
+    {
+      "speaker": "patient",
+      "text": "She did, it was a big help. The washing-up runs to twenty minutes now, so getting those labels done took ages on my own. Still, the labels are all sorted now!"
+    },
+    {
+      "speaker": "companion",
+      "text": "That's wonderful that your sister came round to help and that the labels are all finished! It sounds frustrating that the washing-up is taking you about twenty minutes now, and that the labels were taking so long on your own. How are you feeling today after all that work?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I slept about eight and a half hours, which is around my usual amount, so I'm feeling alright today. Just taking my time getting things ready for the shower this afternoon!"
+    },
+    {
+      "speaker": "companion",
+      "text": "It's great that you got about eight and a half hours of sleep and are feeling alright today! Taking your time getting ready sounds like a wonderful plan. Are you looking forward to the shower this afternoon?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I am, it'll be lovely to have everyone round. Do you think I should put the games on the tables, or keep them to the side until we play? Buttoning a shirt takes me a minute, so I want to get everything set up before they arrive."
+    },
+    {
+      "speaker": "companion",
+      "text": "That's a good question! Sometimes having the games on the tables can be a nice icebreaker, but keeping them to the side might give everyone more space to chat initially. What do you think would work best for the space you have? It sounds frustrating that buttoning a shirt is taking a minute right now; I hope you're able to take your time getting ready."
+    },
+    {
+      "speaker": "patient",
+      "text": "I might keep them to one side, there's not a lot of space on the tables with the food and everything. Around 19:08 last night, while I was getting things done, my medication was working fine, so hopefully it's the same today. I'm sure it'll all go brilliantly!"
+    },
+    {
+      "speaker": "companion",
+      "text": "Keeping the games to one side sounds like a very sensible plan, especially with all the lovely food! It's great to hear your medication was working fine around 19:08 last night while you were getting things done. Are you feeling well enough to finish setting up for the party?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, I'll be fine, my niece is coming over early to give me a hand."
+    },
+    {
+      "speaker": "companion",
+      "text": "That's lovely that your niece is coming over early to help! It sounds like you'll have everything ready in no time. Are you excited to see everyone this afternoon?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I am, it's going to be a brilliant afternoon. Thanks for your help with it all!"
+    },
+    {
+      "speaker": "companion",
+      "text": "You are very welcome! I hope you have a truly wonderful afternoon at the baby shower. Enjoy celebrating with your family!"
+    }
+  ],
+  [
+    {
+      "speaker": "patient",
+      "text": "Hi! The shower went really well yesterday, everyone had a great time! My thumb goes now and again today, but that's alright."
+    },
+    {
+      "speaker": "companion",
+      "text": "Hi! That is wonderful news about the shower, I am so glad everyone had a great time! It sounds like the perfect celebration. It sounds frustrating that your thumb is acting up today, though; is it making things a bit trickier?"
+    },
+    {
+      "speaker": "patient",
+      "text": "It's not too bad, thanks. I had only about 5.8 hours last night., so I'm a bit tired today anyway."
+    },
+    {
+      "speaker": "companion",
+      "text": "I am sorry to hear you only got about 5.8 hours of sleep last night. That fuzzy tired feeling can definitely make the day feel a bit longer. Are you able to take it easy today and get some rest?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I am, I'm just relaxing and getting a few bits done around the house. Around 12:33, while I was getting things done, my medication was in its usual working period."
+    },
+    {
+      "speaker": "companion",
+      "text": "I am glad you are able to take it easy today and relax. It is good to hear your medication was working as usual around 12:33 while you were getting things done. What kind of bits around the house are you tackling today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just putting a few bits away from yesterday. Takes a while though - the washing-up is half an hour's work."
+    },
+    {
+      "speaker": "companion",
+      "text": "Putting things away sounds like a nice way to tidy up after the party. It must be frustrating that the washing-up is taking you half an hour, though. Are you able to take your time and break it up into smaller chunks if you need to?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, I just do a bit at a time. I'll get there in the end!"
+    },
+    {
+      "speaker": "companion",
+      "text": "Taking it a bit at a time sounds like a really sensible approach. I am sure it will look lovely when it's all done! Did your cousin's simple sponge cake go down well at the shower?"
+    },
+    {
+      "speaker": "patient",
+      "text": "It did, it was delicious! We had plenty left over too, which was nice."
+    },
+    {
+      "speaker": "companion",
+      "text": "Leftover cake is always a lovely bonus! It sounds like the simple sponge was a real hit. Is there anything else you are planning for the rest of your day?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just going to watch a bit of telly now, I think. Have a lovely evening!"
+    }
+  ],
+  [
+    {
+      "speaker": "patient",
+      "text": "Morning! Just sorting out the rotas at work for next week, doing my head in a bit. Sleep was alright though, got my usual twelve hours or so."
+    },
+    {
+      "speaker": "companion",
+      "text": "Good morning! Glad to hear you got your usual twelve hours of sleep. Sorting out rotas sounds like a bit of a headache though; is it taking longer than usual, or is it just a tricky week to schedule?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Bit of both, really. Takes me a while to get anything done - the washing-up runs to twenty minutes now. Have you ever had to sort a rota? It's a nightmare trying to keep everyone happy."
+    },
+    {
+      "speaker": "companion",
+      "text": "I haven't had to sort a rota myself, but it sounds like quite the puzzle trying to balance everyone's needs. It must be frustrating that the washing-up is taking you twenty minutes now, on top of trying to sort the schedule. Are there any particular shifts that are causing the most trouble on the rota?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just the weekends, everyone wants them off! Around 11:05, while I was getting things done, my medication was in its usual working period, which helped a bit. My neck feels a little set today too, but I'll manage. Just need to power through it."
+    },
+    {
+      "speaker": "companion",
+      "text": "It\u2019s good to hear your medication was in its usual working period around 11:05 while you were tackling the rotas. The weekends always seem to be the trickiest to fill! It sounds uncomfortable that your neck is feeling a little set today; are you finding it's making it harder to look at the screen while you work?"
+    },
+    {
+      "speaker": "patient",
+      "text": "A bit, yeah. I have to make sure my chair is in the right place so I'm not straining. Sometimes I move in ways I don't intend, which doesn't help when I'm trying to concentrate on the screen. But I'll get it sorted eventually."
+    },
+    {
+      "speaker": "companion",
+      "text": "That sounds frustrating, moving in ways you don't intend while you're trying to concentrate on the rotas. It\u2019s good that you\u2019re being mindful of your chair position to avoid straining your neck, though. Are you able to take a few breaks from the screen to rest your neck and reset?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, I'll probably go make a cup of tea in a bit. Need a break from staring at these names! I had a little walk this morning before I started, about 08:15, which was nice."
+    },
+    {
+      "speaker": "companion",
+      "text": "A cup of tea sounds like a perfect break from looking at all those names. It's lovely that you were able to get out for your walk around 08:15 this morning! Did the fresh air help clear your head a bit before tackling the rotas?"
+    },
+    {
+      "speaker": "patient",
+      "text": "It did, yeah, always nice to get some fresh air. Just trying to figure out who I can put on the early shift on Saturday now. It's tricky because there's a tiny pause at the very start when I try to move, then I'm away, so getting up early can be a bit of a hassle for me. I'm trying not to put anyone else in that position if I can help it."
+    },
+    {
+      "speaker": "companion",
+      "text": "It's very considerate of you to think about how getting up early can be a hassle, especially when you have that tiny pause before you get moving yourself. The fresh air from your walk definitely sounds like a nice way to start the day. Are there any early birds on the team who might prefer that Saturday morning shift?"
+    },
+    {
+      "speaker": "patient",
+      "text": "There's one or two who usually don't mind, I'll see if I can sweet talk them! My feet catch on the carpet the odd time when I'm walking, so I'm hoping I don't trip over when I go to make that tea. Right, I better get back to these rotas. Talk to you later!"
+    }
+  ],
+  [
+    {
+      "speaker": "companion",
+      "text": "Hi there! How are you getting on today? Did you manage to sweet-talk those early birds into taking the Saturday shift on the rota?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Morning! I did, thankfully, so the rota is finally sorted. I got about eight hours of sleep last night, so I'm feeling alright today. Just taking my time getting things done around the house."
+    },
+    {
+      "speaker": "companion",
+      "text": "Good morning! That's brilliant news about the rota, it must be a relief to have that off your plate. I'm glad you got about eight hours of sleep and are feeling alright today, too. What kind of things are you getting done around the house today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just a bit of cleaning and tidying, nothing major. Making a cup of tea is a five-minute job for me today, so I'm just pacing myself. Do you have any tips for getting a stubborn stain out of a rug?"
+    },
+    {
+      "speaker": "companion",
+      "text": "Pacing yourself sounds like a very sensible plan, especially when making a cup of tea is a five-minute job. For a stubborn stain on a rug, sometimes a bit of washing-up liquid mixed with warm water and gently dabbed on can help. Have you noticed your feet catching on the carpet at all today while you've been tidying?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, I'll give that washing-up liquid a try! I was a bit unsteady on my feet earlier when I was getting breakfast sorted, before my meds had kicked in around eight. There's just a slowness through everything I do, you know?"
+    },
+    {
+      "speaker": "companion",
+      "text": "I hope the washing-up liquid does the trick! It sounds frustrating to have felt a bit unsteady on your feet before your meds kicked in around eight, and I hear you about that slowness through everything you do. Are you finding that slowness is making the tidying up harder today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, it's taking a lot longer than usual. I'm just taking a break now before I tackle the hovering."
+    },
+    {
+      "speaker": "companion",
+      "text": "Taking a break sounds like exactly the right thing to do. The hovering will still be there when you're ready! Are you planning to watch any telly while you rest?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I might put something on, yeah. It takes me a moment to get the first step out when I get up, so a bit of telly sounds nice."
+    },
+    {
+      "speaker": "companion",
+      "text": "A bit of telly sounds lovely. I hope you enjoy your break and that the hovering goes smoothly when you get to it. Let me know how the rug stain turns out next time we chat!"
+    },
+    {
+      "speaker": "patient",
+      "text": "Will do, thanks! Have a good day."
+    },
+    {
+      "speaker": "companion",
+      "text": "You too! Take care."
+    }
+  ],
+  [
+    {
+      "speaker": "companion",
+      "text": "Hi there! How are you doing today? Did that washing-up liquid trick work on the rug stain?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Morning! The washing-up liquid worked a treat on that rug stain, thanks for the tip! Buttoning a shirt takes me a minute today, so it was a slow start."
+    },
+    {
+      "speaker": "companion",
+      "text": "Good morning! I'm so glad to hear the washing-up liquid worked a treat on the rug stain! It sounds frustrating that buttoning a shirt is taking a minute today and causing a slow start. Are you finding that other things are taking a bit longer this morning, too?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I work through a job steadily, just not quickly. Had only about five hours last night."
+    },
+    {
+      "speaker": "companion",
+      "text": "Working through a job steadily sounds like a good way to handle things when they aren't moving quickly. I'm sorry to hear you only got about five hours of sleep last night. How are you feeling now, having had less rest?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I'm feeling alright, just getting on with things. Been looking at some patterns for a new cardigan. Any ideas on colours?"
+    },
+    {
+      "speaker": "companion",
+      "text": "It's good that you're feeling alright and getting on with things, despite the lack of sleep. Looking at patterns for a new cardigan sounds like a lovely project! Were you thinking of something bright, or maybe more neutral tones like the pastel yellow and green from the baby shower?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Maybe a nice navy, something a bit classic. Getting started moving is tricky, there's half a second before the first step comes."
+    },
+    {
+      "speaker": "companion",
+      "text": "Navy is a beautiful, classic choice for a cardigan. It sounds frustrating that there is half a second before the first step comes when you try to get moving today. Is that happening every time you try to get going, or just sometimes?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, mostly every time. Just have to be patient. I might head to the wool shop later if I'm feeling up to it."
+    },
+    {
+      "speaker": "companion",
+      "text": "Patience sounds like the best approach. A trip to the wool shop sounds like a lovely outing if you're feeling up to it! Are there any particular types of wool you're looking for, for the new cardigan?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just a nice chunky knit, I think. Around 17:48, while I was getting things done, my medication was in its usual working period, which was alright. Anyway, I'm off to put the kettle on!"
+    },
+    {
+      "speaker": "companion",
+      "text": "A chunky knit will be so cozy! It's good to hear your medication was in its usual working period around 17:48 while you were getting things done. Enjoy your cup of tea, and I hope you have a nice rest of your day!"
+    }
+  ],
+  [
+    {
+      "speaker": "patient",
+      "text": "Hi there. Can you believe it, someone pinched the milk deliveries from our street this morning! Getting dressed takes me twenty minutes or so today, so I was late getting to the door."
+    },
+    {
+      "speaker": "companion",
+      "text": "Hi there! Oh, how frustrating that someone pinched the milk deliveries, especially when you were late getting to the door. It sounds like getting dressed taking around twenty minutes today has been quite inconvenient; are you finding other things are taking a bit longer too?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, things take a bit longer. Making tea is a five-minute job for me today. I had only about 4.7 hours last night, so I'm a bit tired anyway."
+    },
+    {
+      "speaker": "companion",
+      "text": "I'm sorry to hear you only got about 4.7 hours of sleep last night, that tired feeling must be tough on top of things taking a bit longer. It sounds frustrating that making tea is taking five minutes today; are you able to just take it easy and rest for a bit?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I will soon, I'm just getting a few bits ready for Sunday first. I've got my arms feeling heavy and set, so I'm taking my time with it."
+    },
+    {
+      "speaker": "companion",
+      "text": "Taking your time with it sounds like a very sensible approach, especially when your arms are feeling heavy and set. What kind of bits are you getting ready for Sunday?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just peeling a few spuds and getting the veg chopped, really. Around 19:05, while I was getting things done, my medication was in its usual working period, which was a help. I'm hoping I can get the rest done before the telly starts."
+    },
+    {
+      "speaker": "companion",
+      "text": "Getting the spuds peeled and the veg chopped ahead of time sounds like a great way to make Sunday a bit easier. It's good to hear your medication was in its usual working period around 19:05 while you were getting things done. What are you looking forward to watching on the telly later?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, just a bit of easy watching, I think. I might try and do a bit of baking tomorrow if I'm up to it."
+    },
+    {
+      "speaker": "companion",
+      "text": "A bit of easy watching sounds perfect for tonight. Baking tomorrow sounds lovely if you're up for it; were you thinking of a sponge, or something different this time?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Maybe a crumble, I've got a few apples that need using up. I'll see how I am, there's a wait at the start before my foot will lift, so I might just sit."
+    },
+    {
+      "speaker": "companion",
+      "text": "An apple crumble sounds delicious and very comforting! It sounds frustrating that you have a wait at the start before your foot will lift; I hope you enjoy a nice sit-down if that's what you need tomorrow."
+    },
+    {
+      "speaker": "patient",
+      "text": "I will do. Sometimes my mind just goes a bit blank on things as well, but it's not the end of the world."
+    }
+  ],
+  [
+    {
+      "speaker": "patient",
+      "text": "Morning! Just checking my payslip and wondering if you know much about tax codes? Got a fine tremble in one finger if I watch for it while I'm trying to scroll down this page!"
+    },
+    {
+      "speaker": "companion",
+      "text": "Good morning! I don't know much about tax codes, I'm afraid, but perhaps someone at work might be able to help you look into it? It sounds frustrating that you've got a fine tremble in one finger while you're trying to scroll; is it making checking your payslip difficult?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, I'll probably ask one of the others later, good idea. Just takes me a bit longer to read it all. I slept about 6.4 hours, which is around my usual amount."
+    },
+    {
+      "speaker": "companion",
+      "text": "That's good that you can ask one of the others later, and I'm glad you got your usual 6.4 hours of sleep. It makes sense that checking the payslip takes a bit longer right now. Are you finding other things are taking a bit longer to read today, too?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Not especially. A cup of tea takes me three or four minutes, but that's about it. Just taking my time today."
+    },
+    {
+      "speaker": "companion",
+      "text": "Taking your time sounds like a great plan for today. It sounds like a bit of a slower start with tea taking three or four minutes. Do you have any plans for the rest of your day, or are you just taking it easy?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Just taking it easy, I think. Around 18:51, while I was getting things done, my medication was in its usual working period. I'll probably put a wash on later if I feel up to it."
+    },
+    {
+      "speaker": "companion",
+      "text": "Taking it easy sounds wonderful. It's good to hear your medication was in its usual working period around 18:51 while you were getting things done. Did you end up making that apple crumble you mentioned a few days ago?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I did! Turned out lovely, although I had a tiny pause at the very start, then I'm away when I went to put it in the oven. Everyone enjoyed it though."
+    },
+    {
+      "speaker": "companion",
+      "text": "I'm so glad the apple crumble turned out lovely and that everyone enjoyed it! It sounds frustrating to have had that tiny pause at the very start before you got moving to put it in the oven. Was that the only time you noticed that pause while you were baking?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, mostly. There's some tightness low in my back today as well, but it's not too bad. Think I'll go make another cup of tea now."
+    },
+    {
+      "speaker": "companion",
+      "text": "A cup of tea sounds like a perfect idea. I'm sorry to hear there's some tightness low in your back today, even if it's not too bad. Enjoy your tea, and take it easy! Let me know if you need anything else next time we chat."
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, I will do. Talk later!"
+    }
+  ],
+  [
+    {
+      "speaker": "patient",
+      "text": "Hi! I'm trying to figure out how to make a photo book online for my aunt's birthday, and I'm a bit lost. Any chance you could give me some pointers?"
+    },
+    {
+      "speaker": "companion",
+      "text": "Hi there! Making a photo book online is such a lovely idea for a birthday gift. What part of the process is feeling a bit tricky right now?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Well, just choosing the pictures and getting them in the right spots is taking ages. There's a slowness through everything I do, so getting dressed takes me twenty minutes or so, let alone dragging photos around a screen! Do you know any good websites for this sort of thing?"
+    },
+    {
+      "speaker": "companion",
+      "text": "That sounds really frustrating, having a slowness through everything you do, especially when making a photo book requires so much dragging and dropping. There are a few sites like Snapfish or Photobox that some people find quite straightforward to use. Are there any particular styles of photo book you were looking for?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I'll have a look at those, thanks! Just a nice simple one, nothing too fancy. I'm a bit unsteady on my feet once in a while, so I haven't been able to get out to the shops to look for a real album anyway."
+    },
+    {
+      "speaker": "companion",
+      "text": "A simple photo book online sounds like a perfect solution, then. I'm sorry to hear you're feeling a bit unsteady on your feet once in a while. Is that unsteadiness making it tricky to get around the house, too?"
+    },
+    {
+      "speaker": "patient",
+      "text": "It's alright, I just have to watch where I'm going. I had only about 4.8 hours last night., so I think I'm just a bit tired today anyway."
+    },
+    {
+      "speaker": "companion",
+      "text": "It makes sense that you'd be feeling tired and perhaps a bit unsteady after only getting about 4.8 hours of sleep last night. That's a short night. Are you able to take it easy and perhaps rest a bit today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I am, yes, just sitting with my tablet mostly. Around 12:05, while I was getting things done, my medication was in its usual working period, which helped a bit. I'll get back to looking at those websites in a minute."
+    },
+    {
+      "speaker": "companion",
+      "text": "I'm glad you're able to just sit with your tablet and take it easy. It's good to hear your medication was in its usual working period around 12:05 while you were getting things done. Do you have a lot of photos to sort through for the book?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Not too many, thankfully. Just a few nice ones from over the years. Right, I'm going to go and make myself a cup of tea before I tackle this again. Thanks for the help!"
+    },
+    {
+      "speaker": "companion",
+      "text": "You're very welcome! Taking a break for a cup of tea sounds like a brilliant idea before tackling those photos again. I hope you enjoy it and that the photo book turns out beautifully. Let me know how it goes next time we chat!"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, I will do. Bye for now!"
+    }
+  ],
+  [
+    {
+      "speaker": "patient",
+      "text": "Hi! Just having a look at the weather, looks like it might rain later. Might just stay in and read my book."
+    },
+    {
+      "speaker": "companion",
+      "text": "Hi there! Staying in with a book sounds like a perfect plan for a rainy afternoon. What kind of book are you reading at the moment?"
+    },
+    {
+      "speaker": "patient",
+      "text": "It's a murder mystery, set in a little village. Just got a bit cold so I put my cardigan on, buttoning a shirt is two or three minutes for me at the moment."
+    },
+    {
+      "speaker": "companion",
+      "text": "A murder mystery set in a village sounds like exactly the right kind of book for a rainy day! It sounds frustrating that buttoning your cardigan is taking two or three minutes at the moment. Are you finding that other things are taking a bit longer to manage today, too?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Making tea is a five-minute job for me today, too. I was still in one of my off spells around 08:14; the latest tablet hadn't kicked in yet."
+    },
+    {
+      "speaker": "companion",
+      "text": "That sounds like a slow start, especially with making tea taking five minutes and being in an off spell around 08:14. It can be frustrating when the tablets haven't quite kicked in yet. How are you feeling now that the morning has moved on a bit?"
+    },
+    {
+      "speaker": "patient",
+      "text": "I'm alright now, thanks. I slept about 7.7 hours, which is around my usual amount."
+    },
+    {
+      "speaker": "companion",
+      "text": "I'm glad to hear you're alright now, and that you got your usual 7.7 hours of sleep. A good night's rest makes a difference! Are you far into your murder mystery yet?"
+    },
+    {
+      "speaker": "patient",
+      "text": "About halfway through, I think. I might make myself another cup of tea in a bit, actually."
+    },
+    {
+      "speaker": "companion",
+      "text": "Halfway through is usually when the mystery really starts to unfold! A cup of tea sounds like a lovely companion for it. Are you finding that taking your time with making the tea makes it a bit easier to manage today?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, just take it steady. Getting the first step out takes a bit of concentrating when I get up to make it, though."
+    },
+    {
+      "speaker": "companion",
+      "text": "Taking it steady is a good way to go. It must be frustrating having to concentrate just to get that first step out when you get up. Once you're up and moving, is the walking any easier?"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, once I'm going it's not too bad. Right, I better get that tea sorted. Talk later!"
+    }
+  ]
+]
