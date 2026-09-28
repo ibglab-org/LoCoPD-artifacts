@@ -1,0 +1,263 @@
+{
+  "scope": "Retained direct comparison; not the later answer-only experiment",
+  "runs": [
+    {
+      "model": "openai/gpt-6-astra",
+      "provider": "openrouter",
+      "condition": "direct",
+      "replicate": 1,
+      "timestamp": "2026-09-09T22:57:35.931277+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "openrouter",
+        "id": "openai/gpt-6-astra",
+        "max_tokens": 1800,
+        "reasoning": {
+          "effort": "medium"
+        }
+      },
+      "returned_model": "openai/gpt-6-astra",
+      "served_provider": "OpenAI"
+    },
+    {
+      "model": "openai/gpt-6-astra",
+      "provider": "openrouter",
+      "condition": "direct",
+      "replicate": 2,
+      "timestamp": "2026-09-09T22:57:50.166170+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "openrouter",
+        "id": "openai/gpt-6-astra",
+        "max_tokens": 1800,
+        "reasoning": {
+          "effort": "medium"
+        }
+      },
+      "returned_model": "openai/gpt-6-astra",
+      "served_provider": "OpenAI"
+    },
+    {
+      "model": "openai/gpt-6-astra",
+      "provider": "openrouter",
+      "condition": "direct",
+      "replicate": 3,
+      "timestamp": "2026-09-09T22:58:03.680131+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "openrouter",
+        "id": "openai/gpt-6-astra",
+        "max_tokens": 1800,
+        "reasoning": {
+          "effort": "medium"
+        }
+      },
+      "returned_model": "openai/gpt-6-astra",
+      "served_provider": "OpenAI"
+    },
+    {
+      "model": "anthropic/claude-fable-5.1",
+      "provider": "openrouter",
+      "condition": "direct",
+      "replicate": 1,
+      "timestamp": "2026-09-10T07:47:21.725971+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "openrouter",
+        "id": "anthropic/claude-fable-5.1",
+        "max_tokens": 5000,
+        "reasoning": {
+          "effort": "high"
+        }
+      },
+      "returned_model": "anthropic/claude-fable-5.1",
+      "served_provider": "Anthropic"
+    },
+    {
+      "model": "anthropic/claude-fable-5.1",
+      "provider": "openrouter",
+      "condition": "direct",
+      "replicate": 2,
+      "timestamp": "2026-09-10T07:48:02.860535+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "openrouter",
+        "id": "anthropic/claude-fable-5.1",
+        "max_tokens": 5000,
+        "reasoning": {
+          "effort": "high"
+        }
+      },
+      "returned_model": "anthropic/claude-fable-5.1",
+      "served_provider": "Anthropic"
+    },
+    {
+      "model": "anthropic/claude-fable-5.1",
+      "provider": "openrouter",
+      "condition": "direct",
+      "replicate": 3,
+      "timestamp": "2026-09-10T07:48:31.668562+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "openrouter",
+        "id": "anthropic/claude-fable-5.1",
+        "max_tokens": 5000,
+        "reasoning": {
+          "effort": "high"
+        }
+      },
+      "returned_model": "anthropic/claude-fable-5.1",
+      "served_provider": "Anthropic"
+    },
+    {
+      "model": "gemini-3.1-pro-preview",
+      "provider": "vertex",
+      "condition": "direct",
+      "replicate": 1,
+      "timestamp": "2026-09-10T07:52:20.351315+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "vertex",
+        "id": "gemini-3.1-pro-preview",
+        "max_tokens": 12000
+      },
+      "returned_model": "gemini-3.1-pro-preview",
+      "served_provider": "vertex"
+    },
+    {
+      "model": "gemini-3.1-pro-preview",
+      "provider": "vertex",
+      "condition": "direct",
+      "replicate": 2,
+      "timestamp": "2026-09-10T07:53:05.853278+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "vertex",
+        "id": "gemini-3.1-pro-preview",
+        "max_tokens": 12000
+      },
+      "returned_model": "gemini-3.1-pro-preview",
+      "served_provider": "vertex"
+    },
+    {
+      "model": "gemini-3.1-pro-preview",
+      "provider": "vertex",
+      "condition": "direct",
+      "replicate": 3,
+      "timestamp": "2026-09-10T07:53:37.314256+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "vertex",
+        "id": "gemini-3.1-pro-preview",
+        "max_tokens": 12000
+      },
+      "returned_model": "gemini-3.1-pro-preview",
+      "served_provider": "vertex"
+    },
+    {
+      "model": "google/gemma-4-31B-it",
+      "provider": "ssh_vllm",
+      "condition": "direct",
+      "replicate": 1,
+      "timestamp": "2026-09-09T22:48:05.053769+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "ssh_vllm",
+        "id": "google/gemma-4-31B-it",
+        "max_tokens": 2400
+      },
+      "returned_model": "google/gemma-4-31B-it",
+      "served_provider": "vllm"
+    },
+    {
+      "model": "google/gemma-4-31B-it",
+      "provider": "ssh_vllm",
+      "condition": "direct",
+      "replicate": 2,
+      "timestamp": "2026-09-09T22:48:12.188570+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "ssh_vllm",
+        "id": "google/gemma-4-31B-it",
+        "max_tokens": 2400
+      },
+      "returned_model": "google/gemma-4-31B-it",
+      "served_provider": "vllm"
+    },
+    {
+      "model": "google/gemma-4-31B-it",
+      "provider": "ssh_vllm",
+      "condition": "direct",
+      "replicate": 3,
+      "timestamp": "2026-09-09T22:48:16.223374+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "ssh_vllm",
+        "id": "google/gemma-4-31B-it",
+        "max_tokens": 2400
+      },
+      "returned_model": "google/gemma-4-31B-it",
+      "served_provider": "vllm"
+    },
+    {
+      "model": "Qwen/Qwen3-8B",
+      "provider": "ssh_vllm",
+      "condition": "direct",
+      "replicate": 1,
+      "timestamp": "2026-09-09T22:50:30.506733+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "ssh_vllm",
+        "id": "Qwen/Qwen3-8B",
+        "max_tokens": 2400
+      },
+      "returned_model": "Qwen/Qwen3-8B",
+      "served_provider": "vllm"
+    },
+    {
+      "model": "Qwen/Qwen3-8B",
+      "provider": "ssh_vllm",
+      "condition": "direct",
+      "replicate": 2,
+      "timestamp": "2026-09-09T22:50:42.030850+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "ssh_vllm",
+        "id": "Qwen/Qwen3-8B",
+        "max_tokens": 2400
+      },
+      "returned_model": "Qwen/Qwen3-8B",
+      "served_provider": "vllm"
+    },
+    {
+      "model": "Qwen/Qwen3-8B",
+      "provider": "ssh_vllm",
+      "condition": "direct",
+      "replicate": 3,
+      "timestamp": "2026-09-09T22:50:58.565826+00:00",
+      "corpus_sha256": "bca75d091ac540f40026840afd04b86e6400efeb50abeed6731ba2ee19c00e26",
+      "prompt_sha256": "d8777a04998ee27b951049d6ba861cad564d6778a44572b65556835491b03495",
+      "configuration": {
+        "provider": "ssh_vllm",
+        "id": "Qwen/Qwen3-8B",
+        "max_tokens": 2400
+      },
+      "returned_model": "Qwen/Qwen3-8B",
+      "served_provider": "vllm"
+    }
+  ]
+}
